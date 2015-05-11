@@ -1,9 +1,15 @@
 # test-browserify
 
-### Build
+Simply application with `browserify` and source maps (for debugging smooth).
 
-```bash
-$ npm install -g browserify
-$ npm install uniq
-$ browserify main.js -o bundle.js
+### Start
+
 ```
+npm install
+gulp watch 
+```
+
+## Authors
+
+ - [piecioshka](http://twitter.com/piecioshka)
+

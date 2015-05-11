@@ -1,0 +1,14 @@
+{
+  "name": "test-browserify",
+  "private": true,
+  "scripts": {
+    "preinstall": "npm install -g gulp browserify"
+  },
+  "devDependencies": {
+    "uniq": "latest",
+    "gulp": "latest",
+    "gulp-browserify": "latest",
+    "gulp-help": "latest",
+    "gulp-rename": "latest"
+  }
+}
