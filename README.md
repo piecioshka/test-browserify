@@ -4,14 +4,8 @@ Simply application with `browserify` and source maps (for debugging smooth).
 
 ### Start
 
-Before run this command you should have installed globally `gulp` and `browserify`.
-
-```
+```bash
 npm install
-gulp watch 
+npm run build
+npm start
 ```
-
-## Authors
-
- - [piecioshka](http://twitter.com/piecioshka)
-
