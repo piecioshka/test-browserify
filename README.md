@@ -1,6 +1,6 @@
 # test-browserify
 
-Simply application with `browserify` and source maps (for debugging smooth).
+📒 Test application build with `Browserify`
 
 ## Preview 🎉
 
@@ -12,6 +12,12 @@ https://piecioshka.github.io/test-browserify/
 npm install
 npm run build
 npm start
+```
+
+### Deployment
+
+```bash
+npm run deploy
 ```
 
 ## License
