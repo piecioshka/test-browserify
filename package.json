@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "test-browserify",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rm -rf dist",
     "build": "browserify src/scripts/main.js -o dist/bundle.js",
